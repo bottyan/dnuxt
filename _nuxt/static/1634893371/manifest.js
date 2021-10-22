@@ -1,1 +1,0 @@
-__NUXT_JSONP__("manifest.js", {routes:["\u002Fchat_automation","\u002Flive_chat","\u002F","\u002Fai_sales_assistant"]})
