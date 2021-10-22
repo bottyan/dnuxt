@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{221:function(n,e,t){"use strict";t.r(e);var l={layout:"dialogity"},o=t(24),component=Object(o.a)(l,(function(){var n=this,e=n.$createElement;return(n._self._c||e)("div",[n._v("\n  Home\n")])}),[],!1,null,null,null);e.default=component.exports}}]);
