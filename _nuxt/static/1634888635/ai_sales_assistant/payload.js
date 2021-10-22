@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ai_sales_assistant", {data:[{}],fetch:{},mutations:void 0});
