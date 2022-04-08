@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/wordpress-plugin", {data:[{}],fetch:{},mutations:void 0});

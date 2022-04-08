@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/hu/privacy-policy", {data:[{}],fetch:{},mutations:void 0});
